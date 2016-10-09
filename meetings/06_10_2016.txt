@@ -1,0 +1,75 @@
+Thursday, October 6th, 2016
+Skype Meeting
+Attendees:
+********
+	Sheehan
+	Spence
+	Hallett
+	Jadees
+	Nick
+
+Initiate election:
+
+- website
+- login
+
+
+Host election: (on our server)
+
+- login
+- create election
+- add voters 
+- create key? to send out? Unique to person.
+- add candidates, parties, other options?
+- election startdate and deadline
+
+- run proof of work algo, makes blocks
+- public private key to add more blocks
+
+- done? 
+
+Vote
+
+- gets ballet
+- has key in it? 
+- login or scan card or submit key ... etc, there are options
+- voting options presented (scratch ballet)
+- initiate vote
+- confirmation vote has been sent
+
+
+End of election
+
+- Send email to host to remind him to check results (download results? Maybe more trusted)
+- login to see results: (or download)
+	show other results such as age groups who voted
+- sheean thinks they should be public the entire time
+
+
+Front end framework:
+- REACT (everyone agrees)
+- angular (but no experts in group)
+
+Back end:
+- Python (some talks about c)
+- use the language for the job
+
+Jadees
+- java
+
+Spencer:
+- front end (but good at backend too -python)
+- not too much database
+
+Connor:
+- backend (c) front end (javascript)
+- nosql
+
+Sheehan
+- Python (erection)
+- testing (lol)
+
+Nick
+- VB (lol)
+- java and python for security gig
+- C in embedded
